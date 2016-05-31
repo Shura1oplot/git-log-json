@@ -1,2 +1,2 @@
 # git-log-json
-Git log as json
+Simple python script to export git log into json file.
